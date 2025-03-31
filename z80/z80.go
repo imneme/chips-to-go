@@ -2,7 +2,7 @@
 package z80
 
 /*
-#cgo CFLAGS: -I../include
+#cgo CFLAGS: -I./include
 #define CHIPS_IMPL
 #include "z80.h"
 */
